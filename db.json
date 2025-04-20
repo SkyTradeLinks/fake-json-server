@@ -1,46 +1,52 @@
-[
-  {
-    "name": "EGD001 TREVOSE HEAD",
-    "upper_limit": "1000 FT MSL",
-    "lower_limit": "SFC",
-    "description": null,
-    "coordinates": [
-      "-5.5116666667,50.3216666667,304.8",
-      "-5.075,50.6416666667,304.8",
-      "-5.2083333333,50.7166666667,304.8",
-      "-5.4,50.6583333333,304.8",
-      "-5.5666666667,50.5333333333,304.8",
-      "-5.65,50.4,304.8",
-      "-5.5116666667,50.3216666667,304.8"
-    ],
-    "type": "Danger"
-  },
-  {
-    "name": "EGD003 PLYMOUTH",
-    "upper_limit": "22000 FT MSL",
-    "lower_limit": "SFC",
-    "description": null,
-    "coordinates": [
-      "-3.7944444444,50.1669444444,6705.6",
-      "-4.1605555556,49.6219444444,6705.6",
-      "-3.82,49.6847222222,6705.6",
-      "-3.575,50.0608333333,6705.6",
-      "-3.7944444444,50.1669444444,6705.6"
-    ],
-    "type": "Prohibited"
-  },
-  {
-    "name": "EGD004 PLYMOUTH",
-    "upper_limit": "22000 FT MSL",
-    "lower_limit": "SFC",
-    "description": null,
-    "coordinates": [
-      "-3.575,50.0608333333,6705.6",
-      "-3.82,49.6847222222,6705.6",
-      "-3.2819444444,49.7813888889,6705.6",
-      "-3.4861111111,50.0175,6705.6",
-      "-3.575,50.0608333333,6705.6"
-    ],
-    "type": "Restricted"
-  }
-]
+{
+  "histories": [
+    {
+      "description": "Referral Reward",
+      "amount": "+5",
+      "balance": 5,
+      "date": "2024-11-15T00:00:00Z"
+    },
+    {
+      "description": "Account Registration",
+      "amount": "+5",
+      "balance": 10,
+      "date": "2024-11-15T00:00:00Z"
+    },
+    {
+      "description": "Referral Reward",
+      "amount": "+5",
+      "balance": 15,
+      "date": "2024-11-15T00:00:00Z"
+    },
+    {
+      "description": "Late Payment Penalty",
+      "amount": "-3",
+      "balance": 12,
+      "date": "2025-01-29T00:00:00Z"
+    },
+    {
+      "description": "Referral Reward",
+      "amount": "+5",
+      "balance": 17,
+      "date": "2025-01-29T00:00:00Z"
+    },
+    {
+      "description": "Inactivity Fee",
+      "amount": "-5",
+      "balance": 12,
+      "date": "2025-03-25T00:00:00Z"
+    },
+    {
+      "description": "Referral Reward",
+      "amount": "+10",
+      "balance": 22,
+      "date": "2025-04-08T00:00:00Z"
+    },
+    {
+      "description": "Service Violation Penalty",
+      "amount": "-7",
+      "balance": 15,
+      "date": "2025-04-19T00:00:00Z"
+    }
+  ]
+}
