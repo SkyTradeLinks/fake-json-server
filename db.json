@@ -7,23 +7,11 @@
       "date": "2024-11-15T00:00:00Z"
     },
     {
-      "description": "Account Registration",
-      "amount": "+5",
-      "balance": 10,
-      "date": "2024-11-15T00:00:00Z"
-    },
-    {
       "description": "Late Payment Penalty",
       "amount": "-3",
-      "balance": 7,
+      "balance": 2,
       "date": "2025-01-29T00:00:00Z"
-    },
-    {
-      "description": "Service Violation Penalty",
-      "amount": "-7",
-      "balance": 0,
-      "date": "2025-04-19T00:00:00Z"
     }
   ],
-  "totalCount": 15
+  "totalCount": 2
 }
